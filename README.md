@@ -66,8 +66,9 @@ Meu objetivo é combinar segurança da informação, inteligência artificial e 
 ## 📬 Contato
 
 <div align="center">
-  <a href="malito:degravajulia@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+  <a href="mailto:degravajulia@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
   <a href="https://www.linkedin.com/in/juliadegrava"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://instagram.com/juliadegrava"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 </div>
 
 <hr>
