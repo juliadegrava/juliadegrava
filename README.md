@@ -4,50 +4,7 @@
 Meu nome é Júlia Degrava, tenho 17 anos e sou estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI Valinhos.
 </p>
 
-<hr>
 
-## 👩‍💻 Sobre Mim
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://img.icons8.com/color/96/000000/student-male--v4.png" height="60"/>
-    </td>
-    <td>
-      <b>Estudante do 2º ano do Ensino Médio apaixonada por tecnologia</b><br>
-      Formação em <b>Cibersegurança</b> e <b>Inteligência Artificial em Nuvem</b> – Microsoft AI-900 pela rede SENAI.<br>
-      Atualmente, cursando <b>Técnico em Desenvolvimento de Sistemas</b> na mesma instituição.<br>
-      <i>Buscando unir segurança da informação, IA e desenvolvimento de software para criar soluções eficientes e seguras.</i>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://img.icons8.com/color/48/000000/security-checked.png"/>
-    </td>
-    <td>
-      <b>Cibersegurança:</b> Monitoramento e mitigação de vulnerabilidades, configuração de firewalls, autenticação segura e defesa contra ataques cibernéticos.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png"/>
-    </td>
-    <td>
-      <b>Inteligência Artificial e Nuvem:</b> Implementação de Machine Learning, Visão Computacional e Processamento de Linguagem Natural (NLP) em serviços de nuvem.
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<hr>
 <hr>
 
 <div align="center">
