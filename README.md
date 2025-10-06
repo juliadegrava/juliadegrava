@@ -35,8 +35,10 @@ Meu nome é Júlia Degrava, tenho 17 anos e sou estudante do curso Técnico em D
 
 ## 📊 Estatísticas
 
+## 📊 Estatísticas
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliadegrava&show_icons=true&theme=dark" alt="Julia's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=juliadegrava&show_icons=true&theme=dark&title_color=FF69B4&icon_color=FFB6C1&text_color=FFB6C1&bg_color=0D1117" alt="Julia's GitHub Stats"/>
 </div>
 
 <hr>
