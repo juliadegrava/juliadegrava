@@ -43,7 +43,6 @@ Meu objetivo é combinar segurança da informação, inteligência artificial e 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" title="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/>
-  <img src="https://img.icons8.com/fluency/48/000000/env.png" height="40" title=".env"/>
 </p>
 
 <hr>
