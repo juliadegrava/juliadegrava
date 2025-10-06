@@ -43,7 +43,7 @@ Meu objetivo é combinar segurança da informação, inteligência artificial e 
 
 <hr>
 
-## 📊 Estatísticas (Tema Rosa Clarinho)
+## 📊 Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juliadegrava&show_icons=true&theme=dark&title_color=FF69B4&icon_color=FFB6C1&text_color=FFB6C1&bg_color=0D1117" alt="Julia's GitHub Stats"/>
@@ -62,7 +62,7 @@ Meu objetivo é combinar segurança da informação, inteligência artificial e 
 ## 📬 Contato
 
 <div align="center">
-  <a href="mailto:degravajulia@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+  <a href="degravajulia@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
   <a href="https://www.linkedin.com/in/juliadegrava"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 </div>
 
