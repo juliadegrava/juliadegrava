@@ -39,6 +39,11 @@ Meu objetivo é combinar segurança da informação, inteligência artificial e 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" title="Sequelize"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" title="Notion"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" title="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/>
+  <img src="https://img.icons8.com/fluency/48/000000/env.png" height="40" title=".env"/>
 </p>
 
 <hr>
@@ -62,7 +67,7 @@ Meu objetivo é combinar segurança da informação, inteligência artificial e 
 ## 📬 Contato
 
 <div align="center">
-  <a href="degravajulia@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+  <a href="malito:degravajulia@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
   <a href="https://www.linkedin.com/in/juliadegrava"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 </div>
 
