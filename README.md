@@ -58,7 +58,7 @@ Meu objetivo é combinar segurança da informação, inteligência artificial e 
 ## 🕹️ Contribuições estilo Pac-Man
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thiago-rferreira/thiago-rferreira/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph"/>
+  <img src="https://raw.githubusercontent.com/juliadegrava/juliadegrava/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph"/>
 </div>
 
 <hr>
