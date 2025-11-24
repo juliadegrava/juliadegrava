@@ -57,7 +57,7 @@ Meu objetivo é combinar segurança da informação, inteligência artificial e 
 
 ## 🎵 Codando recentemente ao som de:
 
-[![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api/spotify?user=fjpzy9sc2jk06704fo1pvml45)
+[![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api/spotify?user=fjpzy9sc2jk06704fo1pvml45)]
 
 
 <hr>
