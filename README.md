@@ -57,8 +57,7 @@ Meu objetivo é combinar segurança da informação, inteligência artificial e 
 
 ## 🎵 Codando recentemente ao som de:
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fjpzy9sc2jk06704fo1pvml45)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fjpzy9sc2jk06704fo1pvml45&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/user/fjpzy9sc2jk06704fo1pvml45)
 
 <hr>
 
