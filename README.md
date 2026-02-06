@@ -6,7 +6,7 @@
 ## 💡 Sobre mim
 
 <p align="center">
-Tenho 17 anos e sou estudante do 2º ano do Ensino Médio, movida pela curiosidade e paixão por tecnologia.<br>
+Tenho 17 anos e sou estudante do 3º ano do Ensino Médio, movida pela curiosidade e paixão por tecnologia.<br>
 Possuo certificação em <b>Cibersegurança</b> e <b>Inteligência Artificial em Nuvem</b> (Microsoft AI-900) pela rede SENAI.<br>
 Atualmente faço o curso Técnico em Desenvolvimento de Sistemas no SENAI Valinhos.<br>
 Meu objetivo é combinar segurança da informação, inteligência artificial e desenvolvimento de software para criar soluções inovadoras e confiáveis.
