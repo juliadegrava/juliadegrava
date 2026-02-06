@@ -57,8 +57,11 @@ Meu objetivo é combinar segurança da informação, inteligência artificial e 
 
 ## 🎵 Codando recentemente ao som de:
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api/spotify?user=fjpzy9sc2jk06704fo1pvml45)
-
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fjpzy9sc2jk06704fo1pvml45&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify"/>
+  </a>
+</div>
 
 <hr>
 
